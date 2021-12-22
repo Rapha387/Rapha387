@@ -4,6 +4,7 @@
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rapha387)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raphafernandes8/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raphalima337@gmail.com)
 
 <div>
     <img style="height: 25vh; width:30vw" src="https://github-readme-stats.vercel.app/api/?username=Rapha387&cache_seconds=1800&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&locale=pt-br"/>
@@ -25,3 +26,6 @@
         </td>
     </tr
 </table>
+        
+        
+      
