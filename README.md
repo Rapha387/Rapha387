@@ -25,8 +25,30 @@
         <td align="center" width="80">
             <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
         </td>
-    </tr
+    </tr>
 </table>
+        
+### Tools
+
+<table>
+    <tr>
+        <td align="center" width="80">
+            <img width="60" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+        </td>
+        <td align="center" width="80">
+            <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+        </td>
+        <td align="center" width="80">
+            <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+        </td>
+        <td align="center" width="80">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+        </td>
+    </tr>
+</table>
+
+
+        
         
         
       
