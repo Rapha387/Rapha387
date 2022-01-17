@@ -7,6 +7,11 @@
 
 <br>
 
+<div>
+    <img style="height: 25vh; width:30vw" src="https://github-readme-stats.vercel.app/api/?username=Rapha387&cache_seconds=1800&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&locale=pt-br"/>
+    <img style="height: 25vh; width:30vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rapha387&cache_seconds=1800&langs_count=7&theme=dracula&layout=compact&locale=pt-br&count_private=true&cache_seconds=1800"/>
+</div>
+
 
 ### Technologies
 
