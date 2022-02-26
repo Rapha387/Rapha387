@@ -34,6 +34,19 @@
         </td>
     </tr>
 </table>
+
+### Studying
+
+<table>
+    <tr>
+        <td align="center" width="80">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+        </td>
+        <td align="center" width="80">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+        </td>
+    </tr>
+</table>
         
 ### Tools
 
