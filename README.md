@@ -61,9 +61,6 @@
         <td align="center" width="80">
             <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
         </td>
-        <td align="center" width="80">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-        </td>
     </tr>
 </table>
 
