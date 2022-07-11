@@ -73,6 +73,10 @@
 
 ![Snake animation](https://github.com/Rapha387/Rapha387/blob/output/github-contribution-grid-snake.svg)
 
+<p align="center"> 
+     <img height="20em" src="https://komarev.com/ghpvc/?username=Rapha387&color=blue" alt="Visualizações no perfil"/> 
+</p> 
+
         
         
         
