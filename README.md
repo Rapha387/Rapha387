@@ -20,20 +20,20 @@
 
 <table>
     <tr>
-        <td align="center" width="80">
-            <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+        <td align="center" width="70">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
         </td>
-        <td align="center" width="80">
-            <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+        <td align="center" width="70">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
         </td>
-        <td align="center" width="80">
+        <td align="center" width="70">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
         </td>
-        <td align="center" width="80">
-            <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+        <td align="center" width="70">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
         </td>
-        <td align="center" width="80">
-            <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+        <td align="center" width="70">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
         </td>
     </tr>
 </table>
@@ -42,14 +42,14 @@
 
 <table>
     <tr>
-        <td align="center" width="80">
-            <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+        <td align="center" width="70">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
         </td>
-        <td align="center" width="80">
-            <img width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+        <td align="center" width="70">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
         </td>
-        <td align="center" width="80">
-            <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
+        <td align="center" width="70">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
         </td>
     </tr>
 </table>
@@ -58,13 +58,13 @@
 
 <table>
     <tr>
-        <td align="center" width="80">
+        <td align="center" width="70">
             <img width="60" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
         </td>
-        <td align="center" width="80">
+        <td align="center" width="70">
             <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
         </td>
-        <td align="center" width="80">
+        <td align="center" width="70">
             <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
         </td>
     </tr>
