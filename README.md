@@ -35,6 +35,9 @@
         <td align="center" width="70">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
         </td>
+        <td align="center" width="70">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+        </td>
     </tr>
 </table>
 
@@ -44,9 +47,6 @@
     <tr>
         <td align="center" width="70">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-        </td>
-        <td align="center" width="70">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
         </td>
         <td align="center" width="70">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
