@@ -38,6 +38,9 @@
         <td align="center" width="70">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
         </td>
+        <td align="center" width="70">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+        </td>
     </tr>
 </table>
 
