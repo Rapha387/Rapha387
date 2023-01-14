@@ -9,12 +9,12 @@
 
 
 <br>
-
+<!--
 <div>
     <img  src="https://github-readme-stats.vercel.app/api?username=Rapha387&show_icons=true&theme=github_dark" href="https://github.com/Rapha387" height="150em">
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rapha387&layout=compact&theme=github_dark&hide=css,html&langs_count=8"  href="https://github.com/Rapha387/" height="150em">
 </div>
-
+--!>
 
 ### Technologies
 
