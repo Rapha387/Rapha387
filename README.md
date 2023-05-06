@@ -39,21 +39,12 @@
         <td align="center" width="60">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
         </td>
-    </tr>
-</table>
-
-### Studying
-
-<table>
-    <tr>
-        <td align="center" width="60">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-        </td>
         <td align="center" width="60">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
         </td>
     </tr>
 </table>
+
         
 ### Tools
 
