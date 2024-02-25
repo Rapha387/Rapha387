@@ -36,10 +36,13 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
         </td>
         <td align="center" width="60">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
+        </td>
+        <td align="center" width="60">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
         </td>
         <td align="center" width="60">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
         </td>
     </tr>
 </table>
@@ -53,7 +56,10 @@
             <img width="60" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
         </td>
         <td align="center" width="60">
-            <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+            <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
+        </td>
+        <td align="center" width="60">
+            <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
         </td>
         <td align="center" width="60">
             <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
