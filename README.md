@@ -65,6 +65,9 @@
             <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
         </td>
         <td align="center" width="60">
+            <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+        </td>
+        <td align="center" width="60">
             <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
         </td>
         <td align="center" width="60">
