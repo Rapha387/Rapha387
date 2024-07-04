@@ -44,6 +44,12 @@
         <td align="center" width="60">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
         </td>
+        <td align="center" width="60">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+        </td>
+        <td align="center" width="60">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+        </td>
     </tr>
 </table>
 
