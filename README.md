@@ -35,6 +35,8 @@
         <td align="center" width="60">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
         </td>
+    </tr>
+    <tr>
         <td align="center" width="60">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
         </td>
@@ -73,9 +75,7 @@
         <td align="center" width="60">
             <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
         </td>
-    </tr>
-    <tr>
-       <td align="center" width="60">
+        <td align="center" width="60">
             <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
         </td>
         <td align="center" width="60">
