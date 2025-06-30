@@ -35,11 +35,11 @@
         <td align="center" width="60">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
         </td>
-    </tr>
-    <tr>
         <td align="center" width="60">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
         </td>
+    </tr>
+    <tr>
         <td align="center" width="60">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
         </td>
